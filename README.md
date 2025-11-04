@@ -135,9 +135,8 @@ Regularly tune Argon2 parameters as hardware improves.
 
 👨‍💻 Contributors
 
-Your Name — Developer
+PRITHVIRAJ— Developer
 
-Instructor — Project Reviewer
 
 📝 License
 
